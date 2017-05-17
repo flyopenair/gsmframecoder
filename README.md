@@ -1,1 +1,2 @@
-# gsmframecoder
+cd test
+make
